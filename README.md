@@ -1,5 +1,12 @@
 # pluralize-util
 A Node.js module that returns the plural form of any noun
+
+[![Build Status](https://travis-ci.org/chazeprasad/mypluralize.svg?branch=master)](https://travis-ci.org/chazeprasad/mypluralize)
+
+[![Coverage Status](https://coveralls.io/repos/github/chazeprasad/mypluralize/badge.svg?branch=master)](https://coveralls.io/github/chazeprasad/mypluralize?branch=master)
+
+
+
 ## Installation 
 ```sh
 npm install pluralize-util --save
