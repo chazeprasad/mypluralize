@@ -1,5 +1,5 @@
 {
-  "name": "mypluralize",
+  "name": "pluralize-util",
   "version": "1.0.0",
   "description": "A Node.js module that returns the plural or singular form of any noun",
   "main": "dist/index.js",
@@ -7,7 +7,6 @@
   "scripts": {
     "build": "tsc",
     "test": "mocha --reporter spec"
-    
   },
   "repository": {
     "type": "git",
